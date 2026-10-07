@@ -34,4 +34,6 @@ Expected Graduation: May 2028
 
 ## Dashboard Preview
 
-![Tampa Bay Wage & Employment Dashboard](Dashboard%20wages.png)
+## Dashboard Preview
+
+![Tampa Bay Wage & Employment Dashboard](Dashboard%20wages%20.png)
