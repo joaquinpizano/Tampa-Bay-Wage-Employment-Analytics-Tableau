@@ -30,3 +30,6 @@ Joaquin Pizano
 University of South Florida  
 B.S. Artificial Intelligence and Business Analytics  
 Expected Graduation: May 2028
+## Interactive Dashboard Preview
+
+![Tampa Bay Wage & Employment Dashboard](dashboard_wages.png)
