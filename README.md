@@ -29,4 +29,4 @@ This project explores wage and employment trends across the Tampa–St. Petersbu
 Joaquin Pizano  
 University of South Florida  
 B.S. Artificial Intelligence and Business Analytics  
-Expected Graduation: May 2029
+Expected Graduation: May 2028
