@@ -32,4 +32,6 @@ B.S. Artificial Intelligence and Business Analytics
 Expected Graduation: May 2028
 ## Interactive Dashboard Preview
 
-![Tampa Bay Wage & Employment Dashboard](dashboard_wages.png)
+## Dashboard Preview
+
+![Tampa Bay Wage & Employment Dashboard](Dashboard%20wages.png)
